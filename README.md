@@ -1,1 +1,1 @@
-# Main www.webpagehero.com subdomain for WebpageHero.com
+# Main www subdomain for WebpageHero.com
